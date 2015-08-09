@@ -1,0 +1,9 @@
+Package: com.noeliel.songcount
+Name: SongCount
+Depends: mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Displays the song count at the bottom of the My Music tab on the iOS 8.4 music app.
+Maintainer: Noeliel
+Author: Noeliel
+Section: Tweaks
